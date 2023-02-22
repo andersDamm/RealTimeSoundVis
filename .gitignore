@@ -1,6 +1,13 @@
-
 # Ignore folders containing tutorials and examples
 tutorials/
 
 # Ignore folders containing external libraries and dependencies
 lib/
+
+
+# Ignore PDF files, figures, and pictures
+*.pdf        # ignore all PDF files
+*.png        # ignore all PNG image files
+*.jpg        # ignore all JPG image files
+*.jpeg       # ignore all JPEG image files
+*.gif        # ignore all GIF image files
